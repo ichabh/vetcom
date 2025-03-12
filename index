@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vet Healthcare Products</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="home">
+        <h1>Welcome to Vet Healthcare Products</h1>
+        <p>Discover our range of innovative pet care solutions.</p>
+        <button><a href="products.html">Explore Products</a></button>
+    </section>
+    <footer>
+        <p>&copy; Vet Healthcare Products 2023</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
